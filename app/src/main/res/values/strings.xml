@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FramkProject</string>
+
+    <string-array name="main_array">
+        <item>轮播图</item>
+    </string-array>
+    <string-array name="main_class_array">
+        <item>com.leihuo.framkproject.lunbo.LunBoActivity</item>
+    </string-array>
+</resources>
